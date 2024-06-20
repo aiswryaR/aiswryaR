@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @aiswryaR
-- 👀 I’m interested in crafting
-- 🌱 I’m currently learning btech cs
-- 💞️ I’m looking to collaborate on google
-- 📫 How to reach me chalakudy
+- 👀 I’m interested in Web Development 
+- 🌱 I’m currently learning Btech CS
+- 📫 How to reach me Chalakudy, Kerala
 
 <!---
 aiswryaR/aiswryaR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
